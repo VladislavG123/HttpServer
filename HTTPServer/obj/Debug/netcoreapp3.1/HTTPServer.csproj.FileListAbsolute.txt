@@ -1,0 +1,13 @@
+C:\Users\Vlad\source\repos\HTTPServer\HTTPServer\obj\Debug\netcoreapp3.1\HTTPServer.csprojAssemblyReference.cache
+C:\Users\Vlad\source\repos\HTTPServer\HTTPServer\obj\Debug\netcoreapp3.1\HTTPServer.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\HTTPServer\HTTPServer\obj\Debug\netcoreapp3.1\HTTPServer.AssemblyInfoInputs.cache
+C:\Users\Vlad\source\repos\HTTPServer\HTTPServer\obj\Debug\netcoreapp3.1\HTTPServer.AssemblyInfo.cs
+C:\Users\Vlad\source\repos\HTTPServer\HTTPServer\bin\Debug\netcoreapp3.1\HTTPServer.exe
+C:\Users\Vlad\source\repos\HTTPServer\HTTPServer\bin\Debug\netcoreapp3.1\HTTPServer.deps.json
+C:\Users\Vlad\source\repos\HTTPServer\HTTPServer\bin\Debug\netcoreapp3.1\HTTPServer.runtimeconfig.json
+C:\Users\Vlad\source\repos\HTTPServer\HTTPServer\bin\Debug\netcoreapp3.1\HTTPServer.runtimeconfig.dev.json
+C:\Users\Vlad\source\repos\HTTPServer\HTTPServer\bin\Debug\netcoreapp3.1\HTTPServer.dll
+C:\Users\Vlad\source\repos\HTTPServer\HTTPServer\bin\Debug\netcoreapp3.1\HTTPServer.pdb
+C:\Users\Vlad\source\repos\HTTPServer\HTTPServer\obj\Debug\netcoreapp3.1\HTTPServer.dll
+C:\Users\Vlad\source\repos\HTTPServer\HTTPServer\obj\Debug\netcoreapp3.1\HTTPServer.pdb
+C:\Users\Vlad\source\repos\HTTPServer\HTTPServer\obj\Debug\netcoreapp3.1\HTTPServer.genruntimeconfig.cache
